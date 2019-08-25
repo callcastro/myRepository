@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Test_Spring.iml" filepath="$PROJECT_DIR$/Test_Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_dao/Test_dao.iml" filepath="$PROJECT_DIR$/Test_dao/Test_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_domain/Test_domain.iml" filepath="$PROJECT_DIR$/Test_domain/Test_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_system_interface/Test_system_interface.iml" filepath="$PROJECT_DIR$/Test_system_interface/Test_system_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_system_service/Test_system_service.iml" filepath="$PROJECT_DIR$/Test_system_service/Test_system_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_web_manager/Test_web_manager.iml" filepath="$PROJECT_DIR$/Test_web_manager/Test_web_manager.iml" />
+    </modules>
+  </component>
+</project>
